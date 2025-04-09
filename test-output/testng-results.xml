@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="11" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-24T10:36:54 IST" name="Suite" finished-at="2025-03-24T10:37:18 IST" duration-ms="23704">
+    <groups>
+    </groups>
+    <test started-at="2025-03-24T10:36:54 IST" name="Test" finished-at="2025-03-24T10:37:18 IST" duration-ms="23704">
+      <class name="test.PimPage">
+        <test-method signature="AddEmployee()[pri:0, instance:test.PimPage@3c419631]" started-at="2025-03-24T10:37:02 IST" name="AddEmployee" finished-at="2025-03-24T10:37:08 IST" duration-ms="6637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployee -->
+      </class> <!-- test.PimPage -->
+      <class name="test.AddEmployeePage">
+        <test-method signature="CreateNewEmployee()[pri:0, instance:test.AddEmployeePage@418e7838]" started-at="2025-03-24T10:37:08 IST" name="CreateNewEmployee" finished-at="2025-03-24T10:37:10 IST" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewEmployee -->
+      </class> <!-- test.AddEmployeePage -->
+      <class name="test.ContactDetailsPage">
+        <test-method signature="AddContactDetails()[pri:0, instance:test.ContactDetailsPage@61230f6a]" started-at="2025-03-24T10:37:10 IST" name="AddContactDetails" finished-at="2025-03-24T10:37:18 IST" duration-ms="7706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddContactDetails -->
+      </class> <!-- test.ContactDetailsPage -->
+      <class name="test.LoginPage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:test.LoginPage@5ae50ce6]" started-at="2025-03-24T10:36:54 IST" name="initialize" finished-at="2025-03-24T10:36:56 IST" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="Launch()[pri:0, instance:test.LoginPage@5ae50ce6]" started-at="2025-03-24T10:36:56 IST" name="Launch" finished-at="2025-03-24T10:36:57 IST" duration-ms="1866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="Login()[pri:0, instance:test.LoginPage@5ae50ce6]" started-at="2025-03-24T10:36:57 IST" name="Login" finished-at="2025-03-24T10:37:02 IST" duration-ms="4184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.LoginPage@5ae50ce6]" started-at="2025-03-24T10:37:18 IST" name="tearDown" finished-at="2025-03-24T10:37:18 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
